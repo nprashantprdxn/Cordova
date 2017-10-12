@@ -107,7 +107,7 @@ background-color: #383838;
 display: inline-block;
 position: relative;
 left: 6%;
-bottom: 10px;
+
 }
 
 .logo img{
@@ -146,6 +146,8 @@ margin-top: 16px;
 	border-radius: 5px;
 	background-color: #5a5a5a;
 }
+
+
 
 /*SECOND HEADER ENDS HERE*/
 /*MAIN BEGINS HERE*/
@@ -429,7 +431,7 @@ form{
 display: inline-block;
     width: 20%;
     height: 250px;
-    margin-left: 19px;
+    margin-left: 36px;
     margin-bottom: 15px;
 }
 
